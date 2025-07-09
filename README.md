@@ -27,7 +27,7 @@ A small sample dataset of text reviews with labeled sentiments (positive/negativ
    ```
    git clone https://github.com/nandithgireesh/advanced-sentiment-analysis.git
    cd advanced-sentiment-analysis
-   Install dependencies:
+Install dependencies:
 ```
    pip install -r requirements.txt
    ```
