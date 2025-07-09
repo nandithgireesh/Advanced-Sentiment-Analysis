@@ -27,20 +27,20 @@ A small sample dataset of text reviews with labeled sentiments (positive/negativ
    ```
    git clone https://github.com/nandithgireesh/advanced-sentiment-analysis.git
    cd advanced-sentiment-analysis
-Install dependencies:
+   Install dependencies:
 ```
-pip install -r requirements.txt
-```
-Run the notebook:
-Open Advanced_Sentiment_Analysis.ipynb in Jupyter Notebook or VSCode and run all cells.
-📊 Sample Output
-Accuracy: ~80% (on small sample dataset)
+   pip install -r requirements.txt
+   ```
+   Run the notebook:
+   Open Advanced_Sentiment_Analysis.ipynb in Jupyter Notebook or VSCode and run all cells.
+   📊 Sample Output
+   Accuracy: ~80% (on small sample dataset)
 
-Classification report showing precision, recall, and F1-score
+   Classification report showing precision, recall, and F1-score
 
-📌 Future Improvements
-Use of deep learning models (LSTM, BERT)
+   📌 Future Improvements
+   Use of deep learning models (LSTM, BERT)
 
-Handling neutral sentiment
+   Handling neutral sentiment
 
-Real-time sentiment prediction with a web interface
+   Real-time sentiment prediction with a web interface
