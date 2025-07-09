@@ -24,18 +24,15 @@ A small sample dataset of text reviews with labeled sentiments (positive/negativ
 ## 🚀 How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/advanced-sentiment-analysis.git
+   ```
+   git clone https://github.com/nandithgireesh/advanced-sentiment-analysis.git
    cd advanced-sentiment-analysis
 Install dependencies:
-
-bash
-Copy
-Edit
+```
 pip install -r requirements.txt
+```
 Run the notebook:
 Open Advanced_Sentiment_Analysis.ipynb in Jupyter Notebook or VSCode and run all cells.
-
 📊 Sample Output
 Accuracy: ~80% (on small sample dataset)
 
